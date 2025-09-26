@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\2025-09-26-P1\bin\Debug\net8.0\2025-09-26-P1.exe
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\2025-09-26-P1\bin\Debug\net8.0\2025-09-26-P1.deps.json
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\2025-09-26-P1\bin\Debug\net8.0\2025-09-26-P1.runtimeconfig.json
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\2025-09-26-P1\bin\Debug\net8.0\2025-09-26-P1.dll
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\2025-09-26-P1\bin\Debug\net8.0\2025-09-26-P1.pdb
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\2025-09-26-P1\obj\Debug\net8.0\2025-09-26-P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\2025-09-26-P1\obj\Debug\net8.0\2025-09-26-P1.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\2025-09-26-P1\obj\Debug\net8.0\2025-09-26-P1.AssemblyInfo.cs
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\2025-09-26-P1\obj\Debug\net8.0\2025-09-26-P1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\2025-09-26-P1\obj\Debug\net8.0\2025-09-26-P1.sourcelink.json
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\2025-09-26-P1\obj\Debug\net8.0\2025-09-26-P1.dll
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\2025-09-26-P1\obj\Debug\net8.0\refint\2025-09-26-P1.dll
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\2025-09-26-P1\obj\Debug\net8.0\2025-09-26-P1.pdb
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\2025-09-26-P1\obj\Debug\net8.0\2025-09-26-P1.genruntimeconfig.cache
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\2025-09-26-P1\obj\Debug\net8.0\ref\2025-09-26-P1.dll
