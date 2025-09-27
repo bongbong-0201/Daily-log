@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\이것이 C# 이다\chapter 03 데이터 보관하기\IntegerLiterals\obj\Debug\net8.0\IntegerLiterals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\이것이 C# 이다\chapter 03 데이터 보관하기\IntegerLiterals\obj\Debug\net8.0\IntegerLiterals.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\이것이 C# 이다\chapter 03 데이터 보관하기\IntegerLiterals\obj\Debug\net8.0\IntegerLiterals.AssemblyInfo.cs
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\이것이 C# 이다\chapter 03 데이터 보관하기\IntegerLiterals\obj\Debug\net8.0\IntegerLiterals.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\이것이 C# 이다\chapter 03 데이터 보관하기\IntegerLiterals\obj\Debug\net8.0\IntegerLiterals.sourcelink.json
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\이것이 C# 이다\chapter 03 데이터 보관하기\IntegerLiterals\bin\Debug\net8.0\IntegerLiterals.exe
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\이것이 C# 이다\chapter 03 데이터 보관하기\IntegerLiterals\bin\Debug\net8.0\IntegerLiterals.deps.json
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\이것이 C# 이다\chapter 03 데이터 보관하기\IntegerLiterals\bin\Debug\net8.0\IntegerLiterals.runtimeconfig.json
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\이것이 C# 이다\chapter 03 데이터 보관하기\IntegerLiterals\bin\Debug\net8.0\IntegerLiterals.dll
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\이것이 C# 이다\chapter 03 데이터 보관하기\IntegerLiterals\bin\Debug\net8.0\IntegerLiterals.pdb
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\이것이 C# 이다\chapter 03 데이터 보관하기\IntegerLiterals\obj\Debug\net8.0\IntegerLiterals.dll
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\이것이 C# 이다\chapter 03 데이터 보관하기\IntegerLiterals\obj\Debug\net8.0\refint\IntegerLiterals.dll
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\이것이 C# 이다\chapter 03 데이터 보관하기\IntegerLiterals\obj\Debug\net8.0\IntegerLiterals.pdb
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\이것이 C# 이다\chapter 03 데이터 보관하기\IntegerLiterals\obj\Debug\net8.0\IntegerLiterals.genruntimeconfig.cache
+C:\Users\USER\Desktop\study\dev-notes\csharp_basics.md\이것이 C# 이다\chapter 03 데이터 보관하기\IntegerLiterals\obj\Debug\net8.0\ref\IntegerLiterals.dll
